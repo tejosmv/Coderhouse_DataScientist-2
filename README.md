@@ -67,11 +67,11 @@ El repositorio contiene los siguientes archivos principales:
 
 | Archivo | Descripción |
 |---|---|
-| `Analitical.ipynb` | Notebook principal del proyecto. Contiene EDA, limpieza de datos, ingeniería de atributos, entrenamiento, optimización y evaluación de modelos de Machine Learning. |
+| `Analitical.ipynb` | Notebook principal del proyecto Etapa I. Contiene EDA, |
 | `clean_alquiler_02_11_2023cc.csv` | Dataset utilizado para el análisis y modelamiento predictivo del mercado de arriendos. |
 | `modelo_prediccion_arriendos_rm.pkl` | Modelo final exportado mediante `joblib` para reutilización posterior. |
 | `Primera_Entrega_vtejos.pdf` | Presentación ejecutiva de la primera entrega, enfocada en el análisis exploratorio de datos. |
-| `Primera_Entrega_vtejos.pptx` | Versión editable de la presentación de la primera entrega. |
+| `Jupyter-Tejos_Vicente_DS2_ProyectoFinal_ArriendosRM_ML.ipynb` | Notebook Final Stage del proyecto. Contiene EDA, limpieza de datos, ingeniería de atributos, entrenamiento, optimización y evaluación de modelos de Machine Learning|
 | `Tejos_Vicente_DS2_ProyectoFinal_ArriendosRM_ML.pdf` | Presentación final del proyecto, enfocada en resultados de Machine Learning. |
 | `viz_1_ubicacion.png` | Visualización asociada al análisis por ubicación/comuna. |
 | `viz_2_superficie.png` | Visualización asociada a superficie y precio. |
